@@ -1,15 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="baa04f33-d1cb-4b84-94fe-5e8bb7e12751" name="Changes" comment="added js files and updated links">
+      <change afterPath="$PROJECT_DIR$/android_manuals.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apple_btns.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apple_manuals.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/3135_final_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/3135_final_project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/image_gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_gallery.js" beforeDir="false" afterPath="$PROJECT_DIR$/image_gallery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banner.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.12.1.custom/jquery-ui.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-ui-1.12.1.custom/jquery-ui.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repair_manuals.html" beforeDir="false" afterPath="$PROJECT_DIR$/repair_manuals.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repair_manuals.js" beforeDir="false" afterPath="$PROJECT_DIR$/repair_manuals.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/right_to_repair.html" beforeDir="false" afterPath="$PROJECT_DIR$/right_to_repair.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,9 +51,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../UNCC School documents/ITIS-3135/Exercise/Activity9" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -41,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1636930702069</updated>
-      <workItem from="1636930703672" duration="13825000" />
+      <workItem from="1636930703672" duration="43314000" />
     </task>
     <task id="LOCAL-00001" summary="added js files and updated links">
       <created>1636943478767</created>
@@ -68,6 +94,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="fleshed out page and cleaned up nav bar" />
     <MESSAGE value="added js files and updated links" />
     <option name="LAST_COMMIT_MESSAGE" value="added js files and updated links" />

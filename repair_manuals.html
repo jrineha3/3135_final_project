@@ -3,14 +3,17 @@
 <head>
     <meta charset="utf-8">
     <title>Fix'n Right</title>
+    <link rel="stylesheet" href="jquery-ui-1.12.1.custom/jquery-ui.min.css">
     <link rel="stylesheet" href="index.css">
     <script src="repair_manuals.js"></script>
+    <script src="jquery/jquery-3.6.0.min.js"></script>
+    <script src="jquery-ui-1.12.1.custom/jquery-ui.min.js"></script>
 </head>
 <body>
 
 <main>
-    <div class="page_head"><h1>Repair Manuals</h1></div>
-    <ul id="nav_bar" class="center">
+    <div class="page_head front"><h1>Repair Manuals</h1></div>
+    <ul id="nav_bar" class="center front">
         <li class="nav"><a href="index.html">Home</a></li>
         <li class="nav"><a href="right_to_repair.html">Right to Repair</a></li>
         <li class="nav"><a href="about.html">Learn About Phones</a></li>
@@ -18,6 +21,24 @@
     </ul>
     <div id="top_block"></div>
 
+    <div id="display" class="center back">
+        <ul class="btn_grid1 back">
+            <li id="apple_btn" class="lrg_btn"><a href="apple_manuals.html"><img src="images/apple_logo.png" alt="Apple devices"></a></li>
+            <li id="android_btn" class="lrg_btn"><a href="android_manuals.html"><img src="images/android_logo.png" alt="Android devices"></a></li>
+        </ul>
+    </div>
+    <div class="foot_container">
+        <div class="divider"></div>
+        <div id="statement" class="center">
+            <h2>Manuals</h2>
+            <p>Here are a collection of repair manuals embedded from IFIXIT separated by OS. This list is intentionally
+            limited and if you would like more repair manuals for different devices and repairs, they can be found at
+            <a href="https://www.ifixit.com/">IFIXIT</a> along with more information about right to repair and community
+            forums for device repair information.</p>
+
+        </div>
+        <div class="divider"></div>
+    </div>
 </main>
 </body>
 </html>
