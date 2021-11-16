@@ -5,22 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="baa04f33-d1cb-4b84-94fe-5e8bb7e12751" name="Changes" comment="added js files and updated links">
-      <change afterPath="$PROJECT_DIR$/android_manuals.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apple_btns.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apple_manuals.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/3135_final_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/3135_final_project.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image_gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/image_gallery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image_gallery.js" beforeDir="false" afterPath="$PROJECT_DIR$/image_gallery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/banner.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-ui-1.12.1.custom/jquery-ui.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-ui-1.12.1.custom/jquery-ui.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repair_manuals.html" beforeDir="false" afterPath="$PROJECT_DIR$/repair_manuals.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repair_manuals.js" beforeDir="false" afterPath="$PROJECT_DIR$/repair_manuals.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/right_to_repair.html" beforeDir="false" afterPath="$PROJECT_DIR$/right_to_repair.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/right_to_repair.js" beforeDir="false" afterPath="$PROJECT_DIR$/right_to_repair.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1636930702069</updated>
-      <workItem from="1636930703672" duration="43314000" />
+      <workItem from="1636930703672" duration="45506000" />
     </task>
     <task id="LOCAL-00001" summary="added js files and updated links">
       <created>1636943478767</created>
